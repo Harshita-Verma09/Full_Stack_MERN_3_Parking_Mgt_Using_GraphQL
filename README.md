@@ -1,6 +1,6 @@
-# ParkSmart - MERN Parking Management System
+# ParkSmart - MERN Parking Management System Using GraphQL
 
-![ParkSmart Demo](frontend/src/assets/react.svg)
+
 
 ## Features
 - User registration with OTP verification and email-based login.
