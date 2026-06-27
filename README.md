@@ -1,7 +1,5 @@
 # ParkSmart - MERN Parking Management System
 
-![ParkSmart Demo](frontend/src/assets/react.svg)
-
 ## Features
 - User registration with OTP verification and email-based login.
 - Parking slot booking for car or bike with date and time selection.
